@@ -1,0 +1,13 @@
+body {
+	background-color: blue;
+
+	h1 {
+		color: Red;
+
+		&:hover {
+			color:Green;
+			background-color:white;
+		}
+
+	}
+}
